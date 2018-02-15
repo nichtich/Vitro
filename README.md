@@ -15,5 +15,5 @@ With Vitro, you can:
 Vitro was originally developed at Cornell University, and is used as the core of the popular
 research and scholarship portal, [VIVO](http://vivoweb.org) .
 
-For more information, contact the [VIVO community](http://www.vivoweb.org/support/user-feedback).
+For more information, see [the Vitro homepage](http://vivoweb.org/info/about-vitro) and contact the [VIVO community](http://www.vivoweb.org/support/user-feedback).
 
